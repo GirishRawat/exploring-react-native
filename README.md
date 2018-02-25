@@ -29,10 +29,6 @@ In this repo we will **explore the RN ecosystem** by **creating a React Native a
 - [ ] :star: **Bonus:** Use the [TouchableOpacity](https://facebook.github.io/react-native/docs/touchableopacity.html) or the [TouchableHighlight](https://facebook.github.io/react-native/docs/touchablehighlight.html) component in place of the `Button` component above
 - [ ] :star: **Bonus:** Use [Platform](https://facebook.github.io/react-native/docs/platform-specific-code.html#platform-module) API to display different UI for iOS & Android
 
-### Demo
-
-![working_gif_assignment_3](https://i.imgur.com/8b7xL6x.gif)
-
 ## Vanilla React Native
 
 - Most **control & customization** for a RN app - let's you write native code for iOS (Swift) & Android (Java/Kotlin)
